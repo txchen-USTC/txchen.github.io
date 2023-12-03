@@ -8,45 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Ph.D student from [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science, Yingcai Honors College, University of Electronic Science and Technology of China (UESTC) in 2017. My research interest includes infrared small target detection, medical image segmentation, multi-modality segmentation, and LLM hallucinaiton mitigation.
+I'm a first-year Ph.D student from [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/?n=zp.front.front.listpage&catid=52&team=&professionaltitle=%E5%89%AF%E6%95%99%E6%8E%88&headword=n) at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. My research interests include infrared small target detection, medical image segmentation, multi-modality segmentation, and LLM hallucinaiton mitigation.
 
-I am very fortunate to be advised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) now. I was advised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), UESTC.
+I am very fortunate to be advised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) now. I was advised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), UESTC from 2015 to 2017.
 
+I have spent time at Sensetime Research, Shanghai and Alibaba DAMO Academy, Hangzhou as a Research Intern, and at Oriental Securities Research Institute, Shanghai as an Investment Analysis Intern.
 
-A data-driven personal website
+Research Topics
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My current research topics include:
+1.Infrared small target detection
+2.Medical image segmentation
+3.Multi-modality segmentation
+4.LLM hallucinaiton mitigation
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **Fluid Dynamics-Inspired Network for Infrared Small Target Detection**
+T Chen, Q Chu, B Liu, N Yu
+International Joint Conference on Artificial Intelligence (IJCAI), 2023
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2. **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**
+T Chen, Q Chu, Z Tan, B Liu, N Yu
+International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+3. **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**
+T Chen, Q Chu, Z Tan, B Liu, N Yu
+IEEE International Conference on Multimedia and Expo (ICME), 2023
 
-**Markdown generator**
+Awards
+======
+1.National Scholarship, USTC, 2023
+2.First Prize in National College English Competition, UESTC, 2018
+3.Huawei Scholarship, UESTC, 2018
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Experiences
+======
+1.Chinese Youth Delegate of UN Climate Change Conference, 2019
+2.Reviewer of ACM MM, IJCAI
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
