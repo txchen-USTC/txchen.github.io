@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D student from [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/?n=zp.front.front.listpage&catid=52&team=&professionaltitle=%E5%89%AF%E6%95%99%E6%8E%88&headword=n) at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. My research interests include infrared small target detection, medical image segmentation, multi-modality segmentation, and LLM hallucinaiton mitigation.
+I'm a first-year Ph.D student from [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/?n=zp.front.front.listpage&catid=52&team=&professionaltitle=%E5%89%AF%E6%95%99%E6%8E%88&headword=n) at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017.
 
 I am very fortunate to be advised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) now. I was advised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), UESTC from 2015 to 2017.
 
