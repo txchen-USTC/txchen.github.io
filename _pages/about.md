@@ -18,13 +18,13 @@ Research Topics
 ======
 My current research topics include:
 
-1.Infrared small target detection
+1. Infrared small target detection
 
-2.Medical image segmentation
+2. Medical image segmentation
 
-3.Multi-modality segmentation
+3. Multi-modality segmentation
 
-4.LLM hallucinaiton mitigation
+4. LLM hallucinaiton mitigation
 
 Publications
 ======
@@ -42,13 +42,18 @@ IEEE International Conference on Multimedia and Expo (ICME), 2023
 
 Awards
 ======
+
 1.National Scholarship, USTC, 2023
+
 2.First Prize in National College English Competition, UESTC, 2018
+
 3.Huawei Scholarship, UESTC, 2018
 
 Experiences
 ======
+
 1.Chinese Youth Delegate of UN Climate Change Conference, 2019
+
 2.Reviewer of ACM MM, IJCAI
 
 
