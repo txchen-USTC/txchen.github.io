@@ -17,50 +17,30 @@ I have spent time at Sensetime Research, Shanghai and Alibaba DAMO Academy, Hang
 Research Topics
 ======
 My current research topics include:
-
-1. Infrared small target detection
-
-2. Medical image segmentation
-
-3. Multi-modality segmentation
-
-4. LLM hallucinaiton mitigation
+* Infrared small target detection
+* Medical image segmentation
+* Multi-modality segmentation
+* LLM hallucinaiton mitigation
+* Financial time series forcasting
 
 Publications
 ======
-1. **Fluid Dynamics-Inspired Network for Infrared Small Target Detection**
- 
-T Chen, Q Chu, B Liu, N Yu
+* **Fluid Dynamics-Inspired Network for Infrared Small Target Detection**, T Chen, Q Chu, B Liu, N Yu, International Joint Conference on Artificial Intelligence (IJCAI), 2023
 
-International Joint Conference on Artificial Intelligence (IJCAI), 2023
+* **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**, T Chen, Q Chu, Z Tan, B Liu, N Yu, International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 
-2. **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**
-
-T Chen, Q Chu, Z Tan, B Liu, N Yu
-
-International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
-
-3. **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**
-
-T Chen, Q Chu, Z Tan, B Liu, N Yu
-
-IEEE International Conference on Multimedia and Expo (ICME), 2023
+* **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**, T Chen, Q Chu, Z Tan, B Liu, N Yu, IEEE International Conference on Multimedia and Expo (ICME), 2023
 
 Awards
 ======
-
-1.National Scholarship, USTC, 2023
-
-2.First Prize in National College English Competition, UESTC, 2018
-
-3.Huawei Scholarship, UESTC, 2018
+* National Scholarship, USTC, 2023
+* First Prize in National College English Competition, UESTC, 2018
+* Huawei Scholarship, UESTC, 2018
 
 Experiences
 ======
-
-1.Chinese Youth Delegate of UN Climate Change Conference, 2019
-
-2.Reviewer of ACM MM, IJCAI
+* Chinese Youth Delegate of UN Climate Change Conference, 2019
+* Reviewer of ACM MM, IJCAI
 
 
 For more info
