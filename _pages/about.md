@@ -17,9 +17,13 @@ I have spent time at Sensetime Research, Shanghai and Alibaba DAMO Academy, Hang
 Research Topics
 ======
 My current research topics include:
+
 1.Infrared small target detection
+
 2.Medical image segmentation
+
 3.Multi-modality segmentation
+
 4.LLM hallucinaiton mitigation
 
 Publications
