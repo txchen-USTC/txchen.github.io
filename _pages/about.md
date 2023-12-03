@@ -34,14 +34,14 @@ T Chen, Q Chu, B Liu, N Yu
 
 International Joint Conference on Artificial Intelligence (IJCAI), 2023
 
-3. **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**
+2. **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**
 
 T Chen, Q Chu, Z Tan, B Liu, N Yu
 
 International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 
-5. **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**
-   
+3. **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**
+
 T Chen, Q Chu, Z Tan, B Liu, N Yu
 
 IEEE International Conference on Multimedia and Expo (ICME), 2023
