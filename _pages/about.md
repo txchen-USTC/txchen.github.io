@@ -8,41 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a Ph.D student from [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/?n=zp.front.front.listpage&catid=52&team=&professionaltitle=%E5%89%AF%E6%95%99%E6%8E%88&headword=n) at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
+I'm now persuing my Ph.D. degree in [School of Cyber Science and Technology](https://cybersec.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). Before that I received my B.S. in mathematics, physics and fundamental science from [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/?n=zp.front.front.listpage&catid=52&team=&professionaltitle=%E5%89%AF%E6%95%99%E6%8E%88&headword=n) at the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2021.
 
-I am very fortunate to be supervised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) now. Prior to this, I was supervised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), UESTC from 2019 to 2021.
+I am now supervised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) in USTC and Jieping Ye (FIEEE), Le Lu (FIEEE) in Alibaba Group. Prior to this, I was supervised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from the School of Computer Science and Engineering, UESTC from 2019 to 2021.
 
-I have spent time at Sensetime Research, Shanghai and Alibaba DAMO Academy, Hangzhou as a Research Intern, and at Oriental Securities Research Institute, Shanghai as an Investment Analysis Intern.
+I have published about 10 first-author & corresponding author papers at top conferences and journals. My research interest covers natural language processing and computer vision. In recent years, I primarily focused on applying artificial intelligence (AI) technology to interdisciplinary researches (Medical Image, Remote Sensing...) in hopes of allowing AI to empower various fields. Also, I am keen on exploreing the integration of physical and mathematical principles to design innovative neural network architectures, aiming to merge artificial intelligence with scientific disciplines in a groundbreaking way.
+
+Besides research, I love wines & cocktails, TF & FREDERIC MALLE's Eau de Parfum and many Cantonese songs. Life and research should be aparted, right? 
 
 Research Topics
 ======
-My current research topics include:
-* Infrared small target detection
-* Medical image segmentation
-* Multi-modality segmentation
-* LLM hallucinaiton mitigation
-* Financial time series forcasting
-
-Publications
+My interseted research topics include:
+* Medical Image Analysis
+* Remote Sensing
+* Large Language Models
+* Multi-Modality
+  
+Internship Experiences
 ======
-* **Fluid Dynamics-Inspired Network for Infrared Small Target Detection**, T Chen, Q Chu, B Liu, N Yu, International Joint Conference on Artificial Intelligence (IJCAI), 2023
+* Oct, 2023  -Now, Alibaba Cloud, Hangzhou, Research Intern in LLMs & Medical Image Analysis
+* Sep, 2022 - Jan, 2023, Sensetime Research, Shanghai, Research Intern in Medical Image Analysis
+* May, 2021 - Aug, 2022, Oriental Securities Research Institute, Shanghai, Investment Analysis of Computer Science Group & Quantitative investment Group
 
-* **BAUENet: Boundary-Aware Uncertainty Enhanced Network for Infrared Small Target Detection**, T Chen, Q Chu, Z Tan, B Liu, N Yu, International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
-
-* **ABMNet: Coupling Transformer with CNN Based on Adams-Bashforth-Moulton Method for Infrared Small Target Detection**, T Chen, Q Chu, Z Tan, B Liu, N Yu, IEEE International Conference on Multimedia and Expo (ICME), 2023
-
+  
 Awards
 ======
+* Huawei Scholarship, USTC, 2024
 * National Scholarship, USTC, 2023
-* First Prize in National College English Competition, UESTC, 2018
+* First Prize in National College English Competition, 2018
 * Huawei Scholarship, UESTC, 2018
 
 Experiences
 ======
+* Reviewer of top conferences and journals: ACM MM, IJCAI, AAAI, TNNLS, TCSVT, TMM, TGRS
 * Chinese Youth Delegate of UN Climate Change Conference, 2019
-* Reviewer of ACM MM, IJCAI
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
