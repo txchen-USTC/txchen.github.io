@@ -12,9 +12,9 @@ I'm now persuing my Ph.D. degree in [School of Cyber Science and Technology](htt
 
 I am now supervised by [Prof. Nenghai Yu](https://dsxt.ustc.edu.cn/zj_js.asp?zzid=728) in USTC and Jieping Ye (FIEEE), Le Lu (FIEEE) in Alibaba Group. Prior to this, I was supervised by [Prof. Lixin Duan](https://faculty.uestc.edu.cn/lxduan/zh_CN/index.htm) from the School of Computer Science and Engineering, UESTC from 2019 to 2021.
 
-I have published about 10 first-author & corresponding author papers at top conferences and journals. My research interest covers natural language processing and computer vision. In recent years, I primarily focused on applying artificial intelligence (AI) technology to interdisciplinary researches (Medical Image, Remote Sensing...) in hopes of allowing AI to empower various fields. Also, I am keen on exploreing the integration of physical and mathematical principles to design innovative neural network architectures, aiming to merge artificial intelligence with scientific disciplines in a groundbreaking way.
+I have published about 10 first-author & corresponding author papers at top conferences and journals. My research interest covers natural language processing and computer vision. In recent years, I primarily focused on applying artificial intelligence (AI) technology to interdisciplinary researches in hopes of allowing AI to empower various fields. Also, I am keen on exploreing the integration of physical and mathematical principles to design innovative neural network architectures, aiming to merge artificial intelligence with scientific disciplines in a groundbreaking way.
 
-Besides research, I love wines & cocktails, TF & FREDERIC MALLE's Eau de Parfum and many Cantonese songs. Life and research should be aparted, right? 
+Besides research, I love wines & cocktails, TF & FREDERIC MALLE's Eau de Parfum and many Cantonese songs.
 
 Research Topics
 ======
@@ -26,7 +26,7 @@ My interseted research topics include:
   
 Internship Experiences
 ======
-* Oct, 2023  -Now, Alibaba Cloud, Hangzhou, Research Intern in LLMs & Medical Image Analysis
+* Oct, 2023 - Now, Alibaba Cloud, Hangzhou, Research Intern in LLMs & Medical Image Analysis
 * Sep, 2022 - Jan, 2023, Sensetime Research, Shanghai, Research Intern in Medical Image Analysis
 * May, 2021 - Aug, 2022, Oriental Securities Research Institute, Shanghai, Investment Analysis of Computer Science Group & Quantitative investment Group
 
